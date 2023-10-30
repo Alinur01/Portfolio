@@ -9,12 +9,12 @@ const Home = () => {
         <div className="homedark__row">
           <div className="homedark__card">
             <h1 className="homedark__title">
-              Kulanbekov <br /> Tilek
+              Satylganov <br /> Alinur
             </h1>
           </div>
           <div className="homedark__card">
             <h2 className="homedark__subtitle">
-              Frontend web developer <br /> 20 years old <br /> Kyrgyzstan,
+              Frontend web developer <br /> 21 years old <br /> Kyrgyzstan,
               Bishkek
             </h2>
           </div>

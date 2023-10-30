@@ -22,21 +22,16 @@ const ContactEngDark = () => {
         <a
           target="_blank "
           className="contactdark__btn"
-          href="https://t.me/Kulanbekov519"
+          href="https://t.me/SATYLGANOVALINUR"
         >
           Send message
         </a>
         <div className="contactdark__icons">
-          <a
-            target="_blank"
-            href="https://www.linkedin.com/in/tilek-%D0%BA%D1%83%D0%BB%D0%B0%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-04a415236/"
-          >
-            <img className="contactdark__img" src={Linkedin} alt="Linkedin" />
-          </a>
-          <a target="_blank" href="https://t.me/Kulanbekov519">
+
+          <a target="_blank" href="https://t.me/SATYLGANOVALINUR">
             <img className="contactdark__img" src={Telegram} alt="Telegram" />
           </a>
-          <a target="_blank" href="https://wa.me/996500323732">
+          <a target="_blank" href="https://wa.me/996702965650">
             <img className="contactdark__img" src={Whatsapp} alt="Whatsapp" />
           </a>
           <div className="contactdark__img-gmail">
@@ -53,7 +48,7 @@ const ContactEngDark = () => {
                 className="contactdark__img gmail__dark"
                 onClick={() => stateHandler()}
               >
-                Kulanbekov519@gmail.com
+                alinursatylganov8@gmail.com
               </p>
             )}
           </div>
@@ -64,25 +59,17 @@ const ContactEngDark = () => {
           <a
             className="contactdark__chat"
             target="_blank"
-            href="https://t.me/Kulanbekov519"
+            href="https://t.me/SATYLGANOVALINUR"
           >
             {" "}
             Telegram
           </a>
           ,
-          <a
-            className="contactdark__chat"
-            target="_blank"
-            href="https://www.linkedin.com/in/tilek-%D0%BA%D1%83%D0%BB%D0%B0%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-04a415236/"
-          >
-            {" "}
-            LinkedIn
-          </a>
           ,
           <a
             className="contactdark__chat"
             target="_blank"
-            href="https://wa.me/996500323732"
+            href="https://wa.me/996702965650"
           >
             {" "}
             Whatsapp

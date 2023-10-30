@@ -9,13 +9,13 @@ const HomeRuDark = () => {
         <div className="homedark__row">
           <div className="homedark__card">
             <h1 className="homedark__title">
-              Куланбеков <br /> Тилек
+              Сатылганов <br /> Алинур
             </h1>
           </div>
           <div className="homedark__card">
             <h2 className="homedark__subtitle">
               Frontend разработчик
-              <br /> 20 лет <br /> Кыргызстан, Бишкек
+              <br /> 21 лет <br /> Кыргызстан, Бишкек
             </h2>
           </div>
         </div>

@@ -8,7 +8,7 @@ const AboutRuDark = () => {
         <h2 className="aboutdark__title">Обо мне</h2>
         <div className="aboutdark__row">
           <p className="aboutdark__subtitle">
-            Привет, я Тилек - Frontend разработчик. Меня интересует веб
+            Привет, я Алинур - Frontend разработчик. Меня интересует веб
             разработка и все что связано с этим.{" "}
           </p>
           <p className="aboutdark__subtitle">

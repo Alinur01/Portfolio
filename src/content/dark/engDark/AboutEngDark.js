@@ -8,7 +8,7 @@ const AboutEngDark = () => {
         <h2 className="aboutdark__title">About me</h2>
         <div className="aboutdark__row">
           <p className="aboutdark__subtitle">
-            Hi, I'm Tilek – Frontend web developer from Bishkek. <br /> I'm
+            Hi, I'm Alinur – Frontend web developer from Bishkek. <br /> I'm
             interested in web development and everything connected with it.
           </p>
           <p className="aboutdark__subtitle">
